@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Приветстсвую тебя здесь 
 
-<!--
-**BlackkkMaster/BlackkkMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Бэкэнд разработчик
 
-Here are some ideas to get you started:
+### Пройденные курсы:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### IT-куб:
+  - Основы программирования на Java
+  - Программирование на Python
+###### Яндекс Лицей:
+  - Веб-разработка на Django 
+
+#### Технологии:
+  - Python
+  - Django
+  - Docker
+  - Nginx
+  - PostgreSQL
+
+#### Увлечения:
+ - Видеоигры (особенно RDR2, Detroit, Cyberpunk 2077)
+ - Сборка ПК
