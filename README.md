@@ -20,3 +20,10 @@
 ### Увлечения:
  - Видеоигры (особенно RDR2, Detroit, Cyberpunk 2077)
  - Сборка ПК
+
+
+<div align="center"> 
+  <a href="https://github.com/blackkkmaster">
+    <img src="https://github-readme-stats.vercel.app/api?username=blackkkmaster&theme=nightowl" height="150" alt="stats graph" />
+  </a>
+</div>
